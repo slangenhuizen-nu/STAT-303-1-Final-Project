@@ -1,0 +1,2 @@
+Hey guys, I've created a notebook for each person to do their eda in so that we can easily see what each other have been working on. 
+If you clone from GitHub into VS Code, then you will be able to commit changes from your code directly to this repo!
